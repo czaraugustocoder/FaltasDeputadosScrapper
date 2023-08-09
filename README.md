@@ -1,3 +1,3 @@
-# Materia-legislativa-scrapper
+# FaltasDeputadosScrapper
 
-Algoritmo de raspagem de dados de matérias legislativas da Assembleia Legislativa do Estado do Amazonas 
+Algoritmo de raspagem de dados de faltas dos deputados da Assembleia Legislativa do Estado do Amazonas 
